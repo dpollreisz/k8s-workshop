@@ -2,6 +2,7 @@
 title: Introduction
 type: docs
 ---
+# Overview
 
 We are going to deploy BOSH environment in AWS. We will install BOSH Director using the BOSH CLI. Once the Director is running we will use the BOSH CLI to deploy Nginx to the environment and upgrade/scale it.
 
