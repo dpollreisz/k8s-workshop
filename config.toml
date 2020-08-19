@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 #baseURL = 'https://example.com/'
-title = 'Bosh Workshop'
+title = 'Kubernetes Developer Workshop'
 theme = 'book'
 
 # Book configuration
@@ -30,7 +30,7 @@ enableGitInfo = true
 # [[menu.before]]
 #[[menu.after]]
 #  name = "Github"
-#  url = "https://github.com/nicksterling/bosh-workshop"
+#  url = "https://github.com/nicksterling/kubernetes-developer-workshop"
 #  weight = 10
 
 #[[menu.after]]

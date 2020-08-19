@@ -1,9 +1,9 @@
 ---
 applications:
-- name: bosh-workshop
+- name: k8s-dev-workshop
   memory: 64M
   instances: 1
   buildpacks: 
   - staticfile_buildpack
-  random-route: true
+  # random-route: true
   path: public/
