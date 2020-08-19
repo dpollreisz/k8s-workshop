@@ -1,4 +1,4 @@
-# Bosh Workshop
+# K8s Workshop
 
 To generate this workshop you'll need [Hugo](https://gohugo.io/) installed. 
 
